@@ -1,9 +1,3 @@
-
-
-<div align="center">
-
-✨ **Goal is Self-Consistent AI** ✨
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/FT115/FT115/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/FT115/FT115/output/github-contribution-grid-snake.svg">
